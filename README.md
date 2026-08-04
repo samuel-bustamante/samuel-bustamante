@@ -125,17 +125,12 @@ applying **knowledge graph** technologies to real-world problems.
 
 <img src="https://github-trophies.vercel.app/?username=samuel-bustamante&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies" width="98%" />
 
-<!--
-  🐍 Contribution snake — uncomment this block AFTER the first successful run of
-  .github/workflows/snake.yml (Actions tab → "Generate contribution snake" → Run workflow).
-  The workflow publishes the SVGs to the `output` branch of this repo.
-
+<!-- 🐍 Contribution snake — regenerated daily by .github/workflows/snake.yml into the `output` branch -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samuel-bustamante/samuel-bustamante/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samuel-bustamante/samuel-bustamante/output/snake-light.svg" />
   <img src="https://raw.githubusercontent.com/samuel-bustamante/samuel-bustamante/output/snake-dark.svg" alt="Contribution snake" width="98%" />
 </picture>
--->
 
 </div>
 
