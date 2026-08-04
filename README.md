@@ -58,19 +58,3 @@ Most of my work goes into **[rudof](https://github.com/rudof-project/rudof)**, a
   <img height="170" src="https://github-readme-stats.shion.dev/api?username=samuel-bustamante&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=1A1B2E&title_color=9184D9&text_color=C9CCE0&icon_color=9184D9&border_color=2E3050" alt="Samuel Bustamante Larriet's GitHub Stats" />
   <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=samuel-bustamante&layout=compact&langs_count=8&bg_color=1A1B2E&title_color=9184D9&text_color=C9CCE0&border_color=2E3050" alt="Most Used Languages" />
 </div>
-
-## What I'm Working On
-
-<div align="center">
-  <a href="https://github.com/rudof-project/rudof">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=rudof-project&repo=rudof&bg_color=1A1B2E&title_color=9184D9&text_color=C9CCE0&icon_color=9184D9&border_color=2E3050&hide_description=true" alt="rudof" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/samuel-bustamante/hackathon-metadata-provenance-kg">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=samuel-bustamante&repo=hackathon-metadata-provenance-kg&bg_color=1A1B2E&title_color=9184D9&text_color=C9CCE0&icon_color=9184D9&border_color=2E3050&hide_description=true" alt="hackathon-metadata-provenance-kg" />
-  </a>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A1B2E&height=120&section=footer&animation=twinkling" alt="Wave footer" width="100%" />
